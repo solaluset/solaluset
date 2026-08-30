@@ -8,6 +8,8 @@
   </picture>
 </a>
 
+---
+
 I'm some random Ukrainian kid who just likes anime girls and Python.
 
 Programming is my hobby and most of the stuff I do isn't particularly useful.
