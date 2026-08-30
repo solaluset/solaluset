@@ -1,7 +1,13 @@
 ## Hi there 👋
 
-[![Sóla's GitHub stats - dark](https://github-readme-stats-solaluset.vercel.app/api?username=solaluset&show_icons=true&bg_color=1500A030&border_radius=10&border_color=808080&theme=aura)](https://youtu.be/2yJgwwDcgV8#gh-dark-mode-only)
-[![Sóla's GitHub stats - light](https://github-readme-stats-solaluset.vercel.app/api?username=solaluset&show_icons=true&bg_color=1500A030&border_radius=10&border_color=808080&theme=buefy)](https://youtu.be/dQw4w9WgXcQ#gh-light-mode-only)
+<a href="https://youtu.be/2yJgwwDcgV8">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-solaluset.vercel.app/api?username=solaluset&show_icons=true&bg_color=1500A030&border_radius=10&border_color=808080&theme=aura">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-solaluset.vercel.app/api?username=solaluset&show_icons=true&bg_color=1500A030&border_radius=10&border_color=808080&theme=buefy">
+    <img alt="Sóla's GitHub stats" src="https://github-readme-stats-solaluset.vercel.app/api?username=solaluset&show_icons=true&bg_color=1500A030&border_radius=10&border_color=808080&theme=aura">
+  </picture>
+</a>
+
 
 <!--
 **solaluset/solaluset** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
